@@ -6,8 +6,5 @@
 
 **The Purpose:** In this project, you'll get a chance to explore and answer several questions related to this prize-winning data. And we encourage you then to explore further questions that you're interested in!
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+This project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
